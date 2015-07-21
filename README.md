@@ -10,3 +10,6 @@ Apache 2.0
 ## Copyright
 
 Copyright Docker Inc Education Team 2014 <education@docker.com>
+
+  -- As modified by Gerry Plummer 2015-07-21
+  
